@@ -32,13 +32,13 @@ Classifier, support vector machines, and LogisticRegression to achieve
 maximum accuracy of 86.9565 percent.
 
 ## Certification
-**  IBM Machine Learning Professional Certificate | IBM **
+**IBM Machine Learning Professional Certificate | IBM**
  - Completed a comprehensive machine learning training, including
 Exploratory Data Analysis, Supervised Machine Learning (Regression
 and Classification), Unsupervised Machine Learning, Deep Learning and
 Reinforcement Learning and Machine Learning Capstone.
 
-** Natural Language Processing Specialization | DEEPLEARNING.AI **
+**Natural Language Processing Specialization | DEEPLEARNING.AI**
  - Certified in Natural Language Processing from deeplearning.ai,
 proficient in techniques including classification and vector spaces,
 probabilistic models, sequence models, and attention models with
