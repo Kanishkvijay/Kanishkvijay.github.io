@@ -47,7 +47,7 @@ analysis, summarization, and question answering.
 
 
 ## Work Experience
-**Artificial Intelligence and Machine Learning Intern @ INTRAIN TECH (_Jan 2024 - Present_)**
+**Artificial Intelligence and Machine Learning Intern @ INTRAIN TECH (_Jan 2024 - Mar 2024_)**
 - Developed practical skills in AI/ML through mentorship and hands-on
 experience in data analysis, model development, and deployment.
 - Collaborated with a team of 10 members to successfully design and implement
