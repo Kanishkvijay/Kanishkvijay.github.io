@@ -1,7 +1,8 @@
 # Machine Learning Engineer
 
-#### Technical Skills: Python, Java (Basic), C (Basic), Supervised Machine Learning, Unsupervised Machine Learning, Deep Learning, Reinforcement Learning, Natural Language Processing
-#### Tools and Software: Tensorflow, Scikit-learn, Keras, Numpy, Pandas, Matplotlib, Seaborn
+#### Programming Skills: Python, Java (Basic), C (Basic)
+#### Technical Skills: Machine Learning, Deep Learning, Natural Language Processing, Software Development
+#### Tools and Software: Linux, Flask, Git, Docker, Tensorflow, Pytorch
 #### Soft Skills: Problem-Solving, Communication, Teamwork and Collaboration, Leadership, Time Management
 
 ## Education
@@ -9,13 +10,70 @@
 - 12th | SAGAR INTERNATIONAL SCHOOL, TAMIL NADU (_2022_)
 - 10th | SAGAR INTERNATIONAL SCHOOL, TAMIL NADU (_2020_)
 
+## Work Experience
+**AI/ML Intern @ YAVAR TECH WORKS PRIVATE LIMITED (_Jun 2024 - Sep 2024_)**
+- Engineered advanced text-to-speech (TTS) and speech-to-text (STT)
+solutions and led research on privateGPT and Ollama for a virtual
+assistant. Gained in-depth knowledge of open-source technologies and
+their strategic importance in a startup environment.
+- Worked one month onsite and two months remotely, developing
+professional connections and acquiring soft skills in communication,
+adaptability, and teamwork.
+
+**AI Engineer Intern @ INTRAINTECH (_Jun 2024 - Jul 2024_)**
+- Developed and deployed an e-learning platform with an interview bot using
+LLMs, NLP, STT, and TTS on Hostinger VPS Ubuntu server. Implemented subscription
+and payment-based membership restrictions using WordPress plugins, created a
+resume parsing feature, and integrated additional functionalities like
+24/7 AI assistance, HR discussions, and E-books.
+- Collaborated with a cross-disciplinary team of 5 members to deliver a
+comprehensive and scalable solution, enhancing teamwork, problem-solving,
+and project management skills.
+
+**Artificial Intelligence and Machine Learning Intern @ INTRAIN TECH (_Jan 2024 - Mar 2024_)**
+- Developed practical skills in AI/ML through mentorship and hands-on
+experience in data analysis, model development, and deployment.
+- Collaborated with a team of 10 members to successfully design and implement
+a Disney recommendation system, showcasing strong teamwork and project
+management skills.
+
+**Technical Team Member @ CSI VITAP CHAPTER (_Sep 2022 - Present_)**
+- Organized and participated in weekly workshops on emerging technologies
+such as artificial intelligence, with an average attendance of 50+ students per
+session,resulting in a 30 percent increase in participation within the club.
+- Achieved 100 percent completion rate on all assigned tasks and ensuring timely
+delivery of projects and initiatives.
+
+**Project Team Member @ THE MACHINE LEARNING CLUB VITAP (_Oct 2022 - Oct 2023_)**
+- Worked on various projects based on Machine Learning and organised events based
+on Machine Learning projects.
+
 ## Project
+**INTERVIEW BOT PLATFORM**
+- Developed an advanced interview bot platform using NLP and LLM
+technologies for candidate evaluation. Created the userinterface with
+HTML, CSS, and JavaScript, and integrated features such as vocal
+interview bot,resume building, master classes, and certificates on a
+WordPress-based membership system.
+- Independently managed configuration, deployment, and maintenance
+on a Hostinger VPS with Ubuntu, effectively coordinating technical and
+non-technical tasks to ensure timely and high-quality project delivery.
+
 **MOVIE RECOMMENDATION SYSTEM**
--  Developed a movie recommendation system utilizing cosine similarity to
+- Developed a movie recommendation system utilizing cosine similarity to
 suggestrelevant content.
 - Designed and deployed a scalable web application interface using
 Streamlit, allowing users to easily interact with the recommendation
 system.
+
+**CYBERBULLYING DETECTION SYSTEM**
+- Developed a robust cyberbullying detection system utilizing a variety of
+machine learning and deep learning techniques, including Random
+Forest Classifier, XGBoost Classifier, Logistic Regression, BERT Model,
+PyTorch LSTM with Attention, and BERT Transformer.
+- Collaborated closely with a college professorto refine the project,
+demonstrating effective problem-solving, technical adaptability, and the
+ability to work with complex algorithms.
 
 **TELECOM CHURN ANALYSIS**
 -  Developed predictive models with an accuracy of 95.6521 percent
@@ -44,23 +102,3 @@ proficient in techniques including classification and vector spaces,
 probabilistic models, sequence models, and attention models with
 experience tasks such as text generation, machine translation, sentiment
 analysis, summarization, and question answering.
-
-
-## Work Experience
-**Artificial Intelligence and Machine Learning Intern @ INTRAIN TECH (_Jan 2024 - Mar 2024_)**
-- Developed practical skills in AI/ML through mentorship and hands-on
-experience in data analysis, model development, and deployment.
-- Collaborated with a team of 10 members to successfully design and implement
-a Disney recommendation system, showcasing strong teamwork and project
-management skills.
-
-**Technical Team Member @ CSI VITAP CHAPTER (_Sep 2022 - Present_)**
-- Organized and participated in weekly workshops on emerging technologies
-such as artificial intelligence, with an average attendance of 50+ students per
-session,resulting in a 30 percent increase in participation within the club.
-- Achieved 100 percent completion rate on all assigned tasks and ensuring timely
-delivery of projects and initiatives.
-
-**Project Team Member @ THE MACHINE LEARNING CLUB VITAP (_Oct 2022 - Oct 2023_)**
-- Worked on various projects based on Machine Learning and organised events based
-on Machine Learning projects.
