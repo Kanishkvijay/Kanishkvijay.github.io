@@ -1,14 +1,20 @@
 # Machine Learning Engineer
 
-#### Programming Skills: Python, Java (Basic), C (Basic)
-#### Technical Skills: Machine Learning, Deep Learning, Natural Language Processing, Software Development
-#### Tools and Software: Linux, Flask, Git, Docker, Tensorflow, Pytorch
+#### Programming Skills: Python, Java, SQL, TensorFlow, PyTorch
+#### Technical Skills: Generative AI, Machine Learning, Deep Learning, Natural Language Processing, Data Visualization, Object-Oriented Programming, Data Structures and Algorithms, Software Development
+#### Tools and Software: Linux, MLflow, Docker, GIT, Github, AWS (Amazon Web Services) Cloud Services
 #### Soft Skills: Problem-Solving, Communication, Teamwork and Collaboration, Leadership, Time Management
 
 ## Education
-- BTech, Computer Science and Engineering | VELLORE INSTITUTE OF TECHNOLOGY, ANDHRA PRADESH (_2022-26_)
-- 12th | SAGAR INTERNATIONAL SCHOOL, TAMIL NADU (_2022_)
-- 10th | SAGAR INTERNATIONAL SCHOOL, TAMIL NADU (_2020_)
+- **BTech, Computer Science and Engineering** | VELLORE INSTITUTE OF TECHNOLOGY, ANDHRA PRADESH (_2022–26_)  
+  CGPA: _9.39/10 (as of current semester)_
+
+- **12th** | SAGAR INTERNATIONAL SCHOOL, TAMIL NADU (_2022_)  
+  Score: _93.6%_
+
+- **10th** | SAGAR INTERNATIONAL SCHOOL, TAMIL NADU (_2020_)  
+  Score: _94%_
+
 
 ## Work Experience
 **AI/ML Intern @ YAVAR TECH WORKS PRIVATE LIMITED (_Jun 2024 - Sep 2024_)**
