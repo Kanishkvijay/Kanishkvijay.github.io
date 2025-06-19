@@ -17,6 +17,14 @@
 
 
 ## Work Experience
+**AI Engineer Intern @ INTRAINTECH (_Sep 2024 - May 2025_)**
+- Developed and deployed an e-learning platform with an interview assistant using
+LLMs, NLP, STT, and TTS on Hostinger VPS Ubuntu server. Implemented subscription
+and payment-based membership restrictions using WordPress plugins, created a
+resume parsing feature, and integrated additional functionalities like
+24/7 AI assistance, HR discussions, and E-books.
+- Led a team of 5 through the full development lifecycle, delivering the project 20% ahead of schedule and ensuring scalable deployment.
+
 **AI/ML Intern @ YAVAR TECH WORKS PRIVATE LIMITED (_Jun 2024 - Sep 2024_)**
 - Engineered advanced text-to-speech (TTS) and speech-to-text (STT)
 solutions and led research on privateGPT and Ollama for a virtual
@@ -25,16 +33,6 @@ their strategic importance in a startup environment.
 - Worked one month onsite and two months remotely, developing
 professional connections and acquiring soft skills in communication,
 adaptability, and teamwork.
-
-**AI Engineer Intern @ INTRAINTECH (_Jun 2024 - Jul 2024_)**
-- Developed and deployed an e-learning platform with an interview bot using
-LLMs, NLP, STT, and TTS on Hostinger VPS Ubuntu server. Implemented subscription
-and payment-based membership restrictions using WordPress plugins, created a
-resume parsing feature, and integrated additional functionalities like
-24/7 AI assistance, HR discussions, and E-books.
-- Collaborated with a cross-disciplinary team of 5 members to deliver a
-comprehensive and scalable solution, enhancing teamwork, problem-solving,
-and project management skills.
 
 **Artificial Intelligence and Machine Learning Intern @ INTRAIN TECH (_Jan 2024 - Mar 2024_)**
 - Developed practical skills in AI/ML through mentorship and hands-on
