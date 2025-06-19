@@ -23,7 +23,7 @@ LLMs, NLP, STT, and TTS on Hostinger VPS Ubuntu server. Implemented subscription
 and payment-based membership restrictions using WordPress plugins, created a
 resume parsing feature, and integrated additional functionalities like
 24/7 AI assistance, HR discussions, and E-books.
-- Led a team of 5 through the full development lifecycle, delivering the project 20% ahead of schedule and ensuring scalable deployment.
+- Led a team of 4 through the full development lifecycle, delivering the project 20% ahead of schedule and ensuring scalable deployment.
 
 **AI/ML Intern @ YAVAR TECH WORKS PRIVATE LIMITED (_Jun 2024 - Sep 2024_)**
 - Engineered advanced text-to-speech (TTS) and speech-to-text (STT)
