@@ -55,6 +55,10 @@ delivery of projects and initiatives.
 on Machine Learning projects.
 
 ## Project
+**RepoRadar - Agentic AI-Based Project Uniqueness Checker**
+- Architected a multi-agent AI framework leveraging custom LLM pipelines to parse codebases, analyze documentation, evaluate idea novelty, and score contributor impact.
+- Validated over 100 GitHub repositories to achieve 87% originality-detection accuracy and delivered dynamic reports via a FastAPI backend and React/Tailwind frontend in under 3 seconds.
+
 **INTERVIEW BOT PLATFORM**
 - Developed an advanced interview bot platform using NLP and LLM
 technologies for candidate evaluation. Created the userinterface with
@@ -91,11 +95,14 @@ ensemble methods to identify key factors influencing customer churn.
 **HEART FAILURE PREDICTION**
 -  Used Machine Learning algorithms to predict the possibility of disease
 in the heart.
-- • Employed algorithms such as Random Forest Classifier, KNeighbors
+-  Employed algorithms such as Random Forest Classifier, KNeighbors
 Classifier, support vector machines, and LogisticRegression to achieve
 maximum accuracy of 86.9565 percent.
 
 ## Certification
+**AWS Certified Cloud Practitioner | Amazon Web Services (AWS)**  
+ - Earned foundational certification from AWS, validating knowledge of cloud concepts, core AWS services, security, pricing models, architecture principles, and support plans. Demonstrated proficiency in cloud computing fundamentals and the AWS ecosystem, enabling informed decisions on IT solutions using AWS Cloud.
+
 **IBM Machine Learning Professional Certificate | IBM**
  - Completed a comprehensive machine learning training, including
 Exploratory Data Analysis, Supervised Machine Learning (Regression
