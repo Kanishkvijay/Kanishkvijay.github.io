@@ -3,7 +3,7 @@
 #### Programming Skills: Python, Java (Basic), SQL, TensorFlow, PyTorch
 #### Technical Skills: Generative AI, Machine Learning, Deep Learning, Natural Language Processing, Data Visualization, Object-Oriented Programming, Data Structures and Algorithms, Software Development
 #### Tools and Software: Linux, MLflow, Docker, GIT, Github, AWS (Amazon Web Services) Cloud Services
-#### Soft Skills: Problem-Solving, Communication, Teamwork and Collaboration, Leadership, Time Management
+#### Soft Skills: Problem-Solving, Communication, Collaboration, Leadership, Time Management
 
 ## Education
 - **BTech, Computer Science and Engineering** | VELLORE INSTITUTE OF TECHNOLOGY, ANDHRA PRADESH (_2022–26_)  
