@@ -113,3 +113,6 @@ proficient in techniques including classification and vector spaces,
 probabilistic models, sequence models, and attention models with
 experience tasks such as text generation, machine translation, sentiment
 analysis, summarization, and question answering.
+
+**OCI Generative AI Professional Certificate | Oracle**  
+ - Completed Oracle’s professional certification in Generative AI, covering foundational and advanced concepts including prompt engineering, embeddings, model fine-tuning, and vector search on OCI.
